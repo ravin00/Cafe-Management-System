@@ -1,5 +1,4 @@
 const Report = require('../models/Report');
-const logger = require('../utils/logger');
 
 class ReportService {
   async generateKpis() {
